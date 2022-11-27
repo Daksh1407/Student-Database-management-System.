@@ -1,4 +1,4 @@
-# Student-Registration-Database-Management-System.
+# Student Registration Database Management System.
 
 1. Install XAMPP to activate PHP server.
   https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.33/xampp-windows-x64-7.4.33-0-VC15-installer.exe/download
