@@ -1,11 +1,10 @@
-# Student-Database-management-System.
+# Student-Registration-Database-Management-System.
 
-# Student-Database-Management-System
-1. Before run it first we have to install **xampp** to active php server
+1. Install XAMPP to activate PHP server.
   https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.33/xampp-windows-x64-7.4.33-0-VC15-installer.exe/download
-  Create Your own database php server file to store the data
+2. Create Your own PHP server database file to store the data
   https://demo.phpmyadmin.net/master-config/
-2. After that start the port server of "Apache" "Mysql" "FileZila" connect the system from main server
-3. Opem the main file as "Login Java"( credential check out in code)
-4. For security purpose I have design a authentication portal, which requrires admin ID and password
-Its a Two Layer Authentication, service has been provided in the login portal
+3. Start the port server of "Apache" "MySql" "FileZila" and connect the system from main server.
+4. Open the main file as "Login Java"( for credentials please check out in code).
+5. For security purposes, a login page is designed that authenticates using the admin ID, password and a sensitive key (serving as two-factor authentication).
+
