@@ -1,5 +1,7 @@
 # Student Registration Database Management System.
 
+![Authentication](https://user-images.githubusercontent.com/102173748/207708008-3577a640-1afd-4534-bf03-b9785cc69af1.png)
+
 1. Install XAMPP to activate PHP server.
   https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.33/xampp-windows-x64-7.4.33-0-VC15-installer.exe/download
 2. Create Your own PHP server database file to store the data
